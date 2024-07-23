@@ -3,6 +3,5 @@
 *.txt
 __pycache__
 hf_chroma
-knowledge/
 resources
 *.ipynb
